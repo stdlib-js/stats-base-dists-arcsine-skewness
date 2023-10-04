@@ -67,7 +67,7 @@ The [skewness][skewness] for an [arcsine][arcsine-distribution] random variable 
 ## Usage
 
 ```javascript
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-skewness@esm/index.mjs';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-skewness@v0.1.1-esm/index.mjs';
 ```
 
 #### skewness( a, b )
@@ -132,7 +132,7 @@ y = skewness( 3.0, 3.0 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-skewness@esm/index.mjs';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-skewness@v0.1.1-esm/index.mjs';
 
 var a;
 var b;
