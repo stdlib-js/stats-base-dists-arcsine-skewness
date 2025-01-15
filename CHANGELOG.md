@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-14)
+## Unreleased (2025-01-15)
+
+<section class="features">
+
+### Features
+
+-   [`4d4286c`](https://github.com/stdlib-js/stdlib/commit/4d4286c043d00531968ca87c71133c6efd6b8c12) - add C implementation for `stats/base/dists/arcsine/skewness` [(#4361)](https://github.com/stdlib-js/stdlib/pull/4361)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3408](https://github.com/stdlib-js/stdlib/issues/3408)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`4d4286c`](https://github.com/stdlib-js/stdlib/commit/4d4286c043d00531968ca87c71133c6efd6b8c12) - **feat:** add C implementation for `stats/base/dists/arcsine/skewness` [(#4361)](https://github.com/stdlib-js/stdlib/pull/4361) _(by Karan Anand, Philipp Burckhardt, stdlib-bot)_
 -   [`727d50a`](https://github.com/stdlib-js/stdlib/commit/727d50a761a91df5259078eed98b8a4f9b2e4c52) - **bench:** refactor random number generation in `stats/base/dists/arcsine` [(#4744)](https://github.com/stdlib-js/stdlib/pull/4744) _(by Karan Anand)_
 
 </details>
@@ -24,9 +47,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Philipp Burckhardt
 
 </section>
 
