@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-03)
+## Unreleased (2025-03-21)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`6ff59dd`](https://github.com/stdlib-js/stdlib/commit/6ff59dd9c1a20e141232e8081ca8606c87c73989) - **docs:** replace manual `for` loop in examples [(#6249)](https://github.com/stdlib-js/stdlib/pull/6249) _(by Karan Anand)_
 -   [`3446619`](https://github.com/stdlib-js/stdlib/commit/344661922e465e67e62f35dde8e5ac3010dc80a4) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`fdd6251`](https://github.com/stdlib-js/stdlib/commit/fdd6251ca208c5aceff5d6a2929788ed2cfbc2d6) - **bench:** refactor random number generation in `stats/base/dists/arcsine` [(#4798)](https://github.com/stdlib-js/stdlib/pull/4798) _(by Karan Anand)_
 -   [`4d4286c`](https://github.com/stdlib-js/stdlib/commit/4d4286c043d00531968ca87c71133c6efd6b8c12) - **feat:** add C implementation for `stats/base/dists/arcsine/skewness` [(#4361)](https://github.com/stdlib-js/stdlib/pull/4361) _(by Karan Anand, Philipp Burckhardt, stdlib-bot)_
